@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:1DBF73&height=180&section=header&text=Nguy%E1%BB%85n%20Th%E1%BA%BF%20An&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Mobile%20%26%20Web&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:1DBF73&height=180&section=header&text=Nguy%E1%BB%85n%20Th%E1%BA%BF%20An&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Mobile%20%2B%20Web&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://github.com/nguyenthean38">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1DBF73&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+An+%E2%80%94+Software+Engineering+student+%40+TDTU;I+automate+boring+work+with+AI+%F0%9F%A4%96;I+build+cross-platform+apps+with+Flutter+%F0%9F%93%B1;I+ship+fast%2C+clean+web+apps+%F0%9F%8C%90" alt="Typing SVG" />
@@ -177,4 +177,3 @@ A multiplayer game built with a small dev team.
 
 </div>
 
-<!-- updated -->
