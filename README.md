@@ -121,13 +121,14 @@ class NguyenTheAn {
 ### 🛒 VietGig — Freelance Marketplace App
 A full **Flutter** freelance marketplace (Fiverr-style) with a 100% Vietnamese UI.
 
-- 57 screens: search & filters, gig detail, checkout, order tracking, real-time-style chat, custom offers, seller dashboard with earnings chart
+- 57 screens in **Vietnamese & English**: search & filters, gig detail, checkout, order tracking, real-time-style chat, custom offers, seller dashboard with earnings chart
 - Light / dark mode, clean architecture (repository pattern) ready for **Firebase**
-- **115 automated tests** (unit + widget)
+- **125 automated tests** + CI with GitHub Actions
+- Design system with Material 3 `ThemeExtension` tokens
 
-`Flutter` `Dart` `Provider` `GoRouter` `Firebase`
+`Flutter` `Dart` `Provider` `GoRouter` `i18n` `CI/CD`
 
-🔒 *Source code coming soon*
+[🔗 View repository](https://github.com/nguyenthean38/VietGig)
 
 </td>
 <td width="50%" valign="top">
