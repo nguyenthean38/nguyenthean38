@@ -176,3 +176,5 @@ A multiplayer game built with a small dev team.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DBF73,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
 
 </div>
+
+<!-- updated -->
