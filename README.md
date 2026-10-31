@@ -30,7 +30,7 @@ class NguyenTheAn {
 
   List<String> get currentlyDoing => [
     "🤖 Building AI-powered workflows & agents to save hours of manual work",
-    "📱 Shipping Flutter apps from Figma design to production",
+    "📱 Shipping Flutter & React Native apps from Figma design to production",
     "🌐 Crafting full-stack web apps with clean UI and solid APIs",
     "📚 Leveling up in system design, testing & cloud (Firebase)",
   ];
@@ -57,9 +57,9 @@ class NguyenTheAn {
 <td width="33%" valign="top">
 
 ### 📱 Mobile App
-- Cross-platform apps with **Flutter & Dart**
+- Cross-platform apps with **Flutter** & **React Native**
 - Clean architecture, state management
-- **Firebase** Auth, Firestore, Storage
+- **Firebase** & **Supabase** backends
 - Pixel-perfect UI from **Figma**
 
 </td>
@@ -89,6 +89,8 @@ class NguyenTheAn {
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 **Mobile**<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -96,9 +98,11 @@ class NguyenTheAn {
 
 **Web**<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
@@ -132,6 +136,23 @@ A full **Flutter** freelance marketplace (Fiverr-style) with a 100% Vietnamese U
 
 </td>
 <td width="50%" valign="top">
+
+### 🥬 Bếp Xanh — AI Grocery Delivery App
+An online grocery ordering & delivery app (Instacart-style) with an **AI cooking assistant**.
+
+- **React Native (Expo) + TypeScript**: browse stores, cart, checkout, real-time order tracking, chat with shopper
+- **Gemini AI**: dish → shopping cart, photo of a recipe → list, intent search — only real in-stock products (anti-hallucination)
+- **Supabase** (Postgres + RLS, server-side pricing) + **n8n** workflows: shopper simulator, weekly deals, Google Sheets import
+- **122 automated tests** (UI, SQL, AI, n8n end-to-end) + CI with GitHub Actions
+
+`React Native` `TypeScript` `Expo` `Supabase` `Gemini` `n8n` `CI/CD`
+
+[🔗 View repository](https://github.com/nguyenthean38/bep-xanh)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🐉 Ngũ Sắc Linh Giới
 A multiplayer game built with a small dev team.
