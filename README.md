@@ -166,7 +166,7 @@ A sportswear e-commerce **web frontend** (adidas-inspired design) with a 100% Vi
 
 `React` `Tailwind CSS` `Vite` `React Query` `Zod` `Design System`
 
-[🔗 View repository](https://github.com/nguyenthean38/TheAn-Store)
+[🌐 Live demo](https://thean-store.vercel.app) · [🔗 View repository](https://github.com/nguyenthean38/TheAn-Store)
 
 </td>
 <td width="50%" valign="top">
