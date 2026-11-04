@@ -176,7 +176,7 @@ A sportswear e-commerce **web frontend** (adidas-inspired design) with a 100% Vi
 ### 📈 Nhịp — Vietnamese Stock Research App
 A dark, keyboard-first **stock research web app** for the Vietnamese market (Fey-inspired, fully redesigned) with a 100% Vietnamese UI.
 
-<a href="https://github.com/nguyenthean38/TheAn-Investment"><img src="https://raw.githubusercontent.com/nguyenthean38/TheAn-Investment/main/docs/screenshots/02-home.jpg" alt="Nhịp preview" /></a>
+<a href="https://thean-investment.vercel.app"><img src="https://raw.githubusercontent.com/nguyenthean38/TheAn-Investment/main/docs/screenshots/02-home.jpg" alt="Nhịp preview" /></a>
 
 - **Market dashboard**: VN-Index & volatility, sector heat, foreign flows, AI-style daily recap, news with reliability meter
 - **Company deep-dive**: price chart with ceiling/floor/reference colors, analyst targets, earnings vs estimates, financial statements, insider trades, peers
@@ -185,7 +185,7 @@ A dark, keyboard-first **stock research web app** for the Vietnamese market (Fey
 
 `React` `Tailwind CSS` `Vite` `React Query` `Zustand` `SVG Charts`
 
-[🔗 View repository](https://github.com/nguyenthean38/TheAn-Investment)
+[🌐 Live demo](https://thean-investment.vercel.app) · [🔗 View repository](https://github.com/nguyenthean38/TheAn-Investment)
 
 </td>
 </tr>
