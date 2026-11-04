@@ -100,6 +100,8 @@ class NguyenTheAn {
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -152,7 +154,22 @@ An online grocery ordering & delivery app (Instacart-style) with an **AI cooking
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 👟 Thean Store — Sportswear E-commerce Website
+A sportswear e-commerce **web frontend** (adidas-inspired design) with a 100% Vietnamese UI.
+
+- **React 19 + Tailwind CSS v4 + Vite**: home, category with filter & sort, product detail & reviews, bag, 3-step checkout, wishlist, account & order tracking / cancellation, loyalty club
+- **Design system first**: color & typography tokens, reusable UI kit (buttons, inputs, modal, drawer, accordion, carousel…) documented in `docs/`
+- **Backend-ready**: full API contract + in-browser mock server — switch to a real API with one env variable
+- **React Query** data layer, **Zod** form validation, lazy-loaded routes
+
+`React` `Tailwind CSS` `Vite` `React Query` `Zod` `Design System`
+
+[🔗 View repository](https://github.com/nguyenthean38/TheAn-Store)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐉 Ngũ Sắc Linh Giới
 A multiplayer game built with a small dev team.
