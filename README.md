@@ -159,6 +159,8 @@ An online grocery ordering & delivery app (Instacart-style) with an **AI cooking
 ### 👟 Thean Store — Sportswear E-commerce Website
 A sportswear e-commerce **web frontend** (adidas-inspired design) with a 100% Vietnamese UI.
 
+<a href="https://thean-store.vercel.app"><img src="https://raw.githubusercontent.com/nguyenthean38/TheAn-Store/main/docs/screenshots/01-home.jpg" alt="Thean Store preview" /></a>
+
 - **React 19 + Tailwind CSS v4 + Vite**: home, category with filter & sort, product detail & reviews, bag, 3-step checkout, wishlist, account & order tracking / cancellation, loyalty club
 - **Design system first**: color & typography tokens, reusable UI kit (buttons, inputs, modal, drawer, accordion, carousel…) documented in `docs/`
 - **Backend-ready**: full API contract + in-browser mock server — switch to a real API with one env variable
@@ -170,6 +172,25 @@ A sportswear e-commerce **web frontend** (adidas-inspired design) with a 100% Vi
 
 </td>
 <td width="50%" valign="top">
+
+### 📈 Nhịp — Vietnamese Stock Research App
+A dark, keyboard-first **stock research web app** for the Vietnamese market (Fey-inspired, fully redesigned) with a 100% Vietnamese UI.
+
+<a href="https://github.com/nguyenthean38/TheAn-Investment"><img src="https://raw.githubusercontent.com/nguyenthean38/TheAn-Investment/main/docs/screenshots/02-home.jpg" alt="Nhịp preview" /></a>
+
+- **Market dashboard**: VN-Index & volatility, sector heat, foreign flows, AI-style daily recap, news with reliability meter
+- **Company deep-dive**: price chart with ceiling/floor/reference colors, analyst targets, earnings vs estimates, financial statements, insider trades, peers
+- **Power tools**: ⌘K command palette, "G then H" shortcuts, screener with saved templates, drag & drop watchlists, events calendar, compare charts
+- **Hand-built SVG charts**, design-system tokens, mock API following VN market rules — backend-ready via `docs/API_CONTRACT.md`
+
+`React` `Tailwind CSS` `Vite` `React Query` `Zustand` `SVG Charts`
+
+[🔗 View repository](https://github.com/nguyenthean38/TheAn-Investment)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🐉 Ngũ Sắc Linh Giới
 A multiplayer game built with a small dev team.
