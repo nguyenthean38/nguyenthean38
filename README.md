@@ -68,7 +68,7 @@ class NguyenTheAn {
 ### 🌐 Web
 - Responsive UI with **React / Next.js**
 - REST APIs with **Node.js & Express**
-- **SQL / PostgreSQL / MongoDB**
+- **SQL / PostgreSQL / SQLite / MongoDB**
 - Deploy on **Vercel / Firebase Hosting**
 
 </td>
@@ -103,6 +103,8 @@ class NguyenTheAn {
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -190,7 +192,24 @@ A dark, keyboard-first **stock research web app** for the Vietnamese market (Fey
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 🛍️ Lumi Store — Full-stack E-commerce Website
+A complete online store for a Vietnamese electronics shop: **storefront + admin dashboard + REST API**, 100% Vietnamese UI.
+
+<a href="https://github.com/nguyenthean38/lumi-store"><img src="https://raw.githubusercontent.com/nguyenthean38/lumi-store/main/docs/screenshots/home.png" alt="Lumi Store preview" /></a>
+
+- **Storefront**: guest checkout, accent-insensitive instant search, flash sale countdown, coupons, **VietQR** payment code, order tracking by code + phone, addresses for the **34 new provinces**
+- **Admin (13 pages)**: revenue & order charts, inline stock editing, bulk actions, order status flow, CSV export, printable invoices
+- **Backend**: Node.js + Express 5 + SQLite, JWT auth, Zod validation; stock deducted in transactions so it never oversells
+- **Integration tests** for the API, responsive down to mobile
+
+`React` `Tailwind CSS` `Vite` `Node.js` `Express` `SQLite` `JWT`
+
+[🔗 View repository](https://github.com/nguyenthean38/lumi-store)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐉 Ngũ Sắc Linh Giới
 A multiplayer game built with a small dev team.
